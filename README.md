@@ -35,6 +35,7 @@ aws-static-website-hosting/
 ├── script.js
 ├── README.md
 
+
 ---
 
 ## Architecture
